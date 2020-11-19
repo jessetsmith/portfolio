@@ -27,13 +27,13 @@
 @media (max-width: 800px) {
     .card {
         width: 80%;
-        height: 35em;
+        height: 37em;
     }
 }
 
 @media (max-width: 770px) {
     .card {
-        width: 80%;
+        width: 90%;
     }
 }
 

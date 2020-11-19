@@ -55,7 +55,7 @@ section {
 
 #main {
     width: 100%;
-    min-height: 500px;
+    height: 85%;
     /* margin-top: 2em; */
     display: flex;
     flex-direction: column;
