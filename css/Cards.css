@@ -281,7 +281,7 @@
     border-radius: 20%;
 }
 
-@media (min-width: 1050px) {
+/* @media (min-width: 1050px) {
     .social {
         vertical-align: middle;
         -webkit-transform: perspective(1px) translateZ(0);
@@ -298,7 +298,7 @@
         box-shadow: 0 0 8px rgb(235, 53, 108);
         outline: #c165b1;
     }
-}
+} */
 
 @media (max-width: 1049px) {
     #card-seven {
