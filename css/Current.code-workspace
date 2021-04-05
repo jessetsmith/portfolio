@@ -1,9 +1,6 @@
 {
     "folders": [
 		{
-			"path": "../../../Bittersweet Woman/Website"
-		},
-		{
 			"path": ".."
 		},
 		{
@@ -11,6 +8,12 @@
 		},
 		{
 			"path": "../.."
+		},
+		{
+			"path": "../../../Bittersweet Woman/bw-website"
+		},
+		{
+			"path": "../../../Bittersweet Woman/bw-client"
 		}
 	],
     "settings": {}
