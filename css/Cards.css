@@ -389,6 +389,10 @@
     margin-top: 1em;
 }
 
+#card-eight a:hover {
+    color: white;
+}
+
 #port-img {
     height: 100%;
     width: 90%;
@@ -521,4 +525,25 @@
 .btn:hover {
     background-color: #e1817d;
     color: black;
+}
+
+/* Carousel */
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    height: 50px;
+    width: 50px;
+    outline: black;
+    background-color: rgba(0, 0, 0, 0.3);
+    background-size: 100%, 100%;
+    border-radius: 50%;
+    border: 1px solid black;
+}
+
+.carousel-inner a:hover {
+    color: black;
+}
+
+.carousel-caption {
+    padding-left: 1em;
+    padding-right: 1em;
 }
