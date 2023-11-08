@@ -2,12 +2,13 @@
     flex: 0 0 auto;
     width: 50%;
     height: 32em;
-    background-color: white;
     color: black;
     border-radius: 0;
     padding: 1em;
     border: 1px solid white;
     overflow: scroll;
+    background-color: rgb(252,249,250);
+
 }
 
 .card a {
@@ -165,6 +166,7 @@
     background-size: 90%;
     background-repeat: no-repeat;
     background-position: center;
+    background-color: rgb(252,249,250);
 }
 
 @media (max-width: 1200px) {
