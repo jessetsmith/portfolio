@@ -105,7 +105,7 @@
     align-content: center;
     text-align: center;
     padding: 1em;
-    background-image: url("../assets/about.gif");
+    background-image: url("../assets/BackgroundGraphic.gif");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -113,7 +113,7 @@
 
 @media (max-width: 1050px) {
     #card-three {
-        background-image: url("../assets/about2.gif");
+        background-image: url("../assets/backgroundGraphic2.gif");
     }
 }
 
@@ -161,7 +161,7 @@
     align-content: center;
     text-align: center;
     padding: 1em;
-    background-image: url("../assets/credentials.gif");
+    background-image: url("../assets/credentialsGraphic.gif");
     background-size: 90%;
     background-repeat: no-repeat;
     background-position: center;
@@ -219,7 +219,7 @@
     margin-bottom: 1em;
 }
 
-#wd-gold {
+/* #wd-gold {
     list-style-image: url('../assets/badges-webdev_gold icon.png');
 }
 
@@ -241,7 +241,7 @@
 
 #sd-red {
     list-style-image: url('../assets/software_badge_red1 icon.png');
-}
+} */
 
 
 /* CARD SEVEN */
